@@ -1,2 +1,2 @@
 # 1484
--One page cafeteria website
+ One page cafeteria website
