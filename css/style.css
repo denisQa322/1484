@@ -1,4 +1,4 @@
-a:link, a:hover, a:active, a:visited{
+a{
     color: #503431;
     text-decoration:none;
 }
